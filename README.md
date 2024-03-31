@@ -1,4 +1,4 @@
-# todo-bootstrap
+# todo-vuetify
 
 ## Project setup
 ```
